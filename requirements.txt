@@ -1,4 +1,5 @@
 numpy
+pandas
 nltk==3.2.1
 textstat
 spacy==2.3.2
